@@ -1,0 +1,44 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/target/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+.env.*
+
+# Java
+*.class
+
+# Maven
+.mvn/
+
+# NPM
+npm-debug.log*
+yarn-error.log*
+# Eclipse
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Build
+backend/target/
+
+# Logs
+backend/errorlog.txt
